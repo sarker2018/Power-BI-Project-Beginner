@@ -75,3 +75,35 @@ We just simply select the DEFAULT column
 Then Drag the AGE colum to the Axis button (in the next-left)
 ```
 ![grafik](https://user-images.githubusercontent.com/61450446/129114390-71d04ed4-a3f4-4195-acd2-b0be85026da6.png)
+
+* If you want to zoom a specific plot, just click on the focus mode
+![grafik](https://user-images.githubusercontent.com/61450446/129114803-54e1e7d0-203f-4b0d-a5b9-71adef9d16ab.png)
+* We can create different types of plots by clicking on the visualisation icons on the right side of the interface. Again, choice of plot depends on the specific problem and target report, and the domain knowledge as well.
+![grafik](https://user-images.githubusercontent.com/61450446/129115098-a7d05767-74a9-499b-82f5-5c0f0d0ac8fe.png)
+## DEFAULT by SEX; Adding a Legend to the plot; 
+* Just drag the `SEX` column to the legend tab to set AGE as legend
+![grafik](https://user-images.githubusercontent.com/61450446/129115475-85a248b2-a1fe-48a9-8ae7-ed920c231328.png)
+* We can remove, export usw from the three dot `...` plot menu
+![grafik](https://user-images.githubusercontent.com/61450446/129115631-a4cb5882-1c47-42e8-bce6-004ed8b24799.png)
+
+## DEFAULT by EDUCATION_, SEX as legend
+```
+Select the DEFAULT check box like before
+Drag the EDUCATION_ to the axis tab
+Drag the SEX to the legend tab
+```
+### DEFAULT by AGE, SEX
+![grafik](https://user-images.githubusercontent.com/61450446/129117029-aece827c-5c42-4ace-b0a8-b284d5215443.png)
+```
+Select the DEFAULT check box like before
+Drag the AGE to the axis tab
+Drag the SEX to the legend tab
+```
+### DEFAULT vs SEX with custom color
+~~~
+Select DEFAULT to create a new plot
+Drag the SEX column on to the Axis tab
+
+Roller button --> Data Colors --> Show All --> Push Off to On --> Select the color from the list
+~~~
+![grafik](https://user-images.githubusercontent.com/61450446/129117941-facb7e7c-9590-48b1-a556-3dbef1cb05c0.png)

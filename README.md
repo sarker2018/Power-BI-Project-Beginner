@@ -44,9 +44,12 @@ Beginner Level Project
 * We can do a trick, we can create a new column called Education and perform logical operation such as `If, else, value`. This is helpful because we are now performing multiple operation with a single execution. 
 
 * Here we set
-- 1 = Graduate
-- 2 = Under Graduate
-- 3 = High School Diploma
-- else = Unknown/ or as described in the original description in the source data.
+   - 1 = Graduate
+   - 2 = Under Graduate
+   - 3 = High School Diploma
+   - else = Unknown/ or as described in the original description in the source data.
 
 ![grafik](https://user-images.githubusercontent.com/61450446/129109418-1413121c-31c6-49ed-b813-94146b12fcf4.png)
+* We can see that the column's values are in descriptive names instead of 1,2 3,
+![grafik](https://user-images.githubusercontent.com/61450446/129109555-93557558-f5e9-41eb-85e1-ee8d9491c0aa.png)
+

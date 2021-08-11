@@ -40,3 +40,12 @@ Beginner Level Project
 * If we did any mistake in any step, we can go the last correct step by looking at the `Applied Steps` window on the right side of the P-BI interface. We can also delete some steps if we want.
 ![grafik](https://user-images.githubusercontent.com/61450446/129107748-ae233f10-2ae9-45ff-beff-226b76e45def.png)
 
+* We also need to change the EDUCATION column values to some maning full and descriptive labels. Here, the EDUCATION are are give in 1,2,3 as we before in the SEX column.
+* We can do a trick, we can create a new column called Education and perform logical operation such as `If, else, value`. This is helpful because we are now performing multiple operation with a single execution. 
+
+* Here we set
+1 = Graduate
+2 = Under Graduate
+3 = High School Diploma
+else = Unknown/ or as described in the original description in the soirce data
+![grafik](https://user-images.githubusercontent.com/61450446/129108599-5fb4d2c5-1b55-4d18-bdf2-73eb039738ef.png)

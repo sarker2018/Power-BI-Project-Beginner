@@ -53,3 +53,10 @@ Beginner Level Project
 * We can see that the column's values are in descriptive names instead of 1,2 3,
 ![grafik](https://user-images.githubusercontent.com/61450446/129109555-93557558-f5e9-41eb-85e1-ee8d9491c0aa.png)
 
+* Now we can remove the original EDUCATION column by right click --> remove if we want to do.
+* We perform the same operation on the MARRIAGE column, 
+   * 1 = Married
+   * 2 = Un Married
+   * else = Unknown
+
+![grafik](https://user-images.githubusercontent.com/61450446/129110125-7e0fa85d-ff66-4c1b-888e-e77098b6a2fd.png)

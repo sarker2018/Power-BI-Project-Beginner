@@ -47,5 +47,6 @@ Beginner Level Project
 1 = Graduate
 2 = Under Graduate
 3 = High School Diploma
-else = Unknown/ or as described in the original description in the soirce data
+else = Unknown/ or as described in the original description in the source data.
+<br>
 ![grafik](https://user-images.githubusercontent.com/61450446/129108599-5fb4d2c5-1b55-4d18-bdf2-73eb039738ef.png)

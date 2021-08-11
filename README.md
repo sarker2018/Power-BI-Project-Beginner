@@ -63,3 +63,15 @@ Beginner Level Project
    else = Unknown
 ```
 ![grafik](https://user-images.githubusercontent.com/61450446/129110125-7e0fa85d-ff66-4c1b-888e-e77098b6a2fd.png)
+
+
+## Visualisation & Report
+* Click on the report view on the top-left of the three view options
+![grafik](https://user-images.githubusercontent.com/61450446/129111633-2f7df2fa-8f89-484a-9c57-8839a5b21065.png)
+
+* Now we want to see how the distribution of `DEFAUL` column look like respect to the age group
+```
+We just simply select the DEFAULT column
+Then Drag the AGE colum to the Axis button (in the next-left)
+```
+![grafik](https://user-images.githubusercontent.com/61450446/129114390-71d04ed4-a3f4-4195-acd2-b0be85026da6.png)

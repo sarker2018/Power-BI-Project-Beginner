@@ -30,4 +30,13 @@ Beginner Level Project
 ![grafik](https://user-images.githubusercontent.com/61450446/129104568-fd8c586d-6001-46c5-950b-2eb09939b5ed.png)
 * Here, we click on Remove Rows --> Remove Top Row; there will be a pop-up window to specify the numbers of rows to be removed. In our case, we specify only one row and click ok button
 ![grafik](https://user-images.githubusercontent.com/61450446/129104957-28cf4906-b5a6-473f-a6ab-624de1151179.png)
+* Again we go to Home --> Use first row as Hearders. Now we see that the first is shown as column name.
+![grafik](https://user-images.githubusercontent.com/61450446/129105266-e5174316-1320-4030-9960-6dcf171de971.png)
+* We can double click on any column name and can rename them as we want.
+* To execute the changes, we need to press Home --> Close & Apply button on the left corner of the window
+* If we look at the SEX column, we see that the sex are given in 1 & 2. We can transform them in Male, Female; If there are value other than 1 & 2 we assume that they are unknown. * We can transform them by clicking on the `Home --> Transform --> Data Type Whole Number --> Text` ; We are doing this step because by default Power BI assumes that the column values are integers, but we need to change them to text so that we can perform our changes. 
+* Now we Click on the `Change values` button and specify 1 = Male and 2 = Female. 
+![grafik](https://user-images.githubusercontent.com/61450446/129107136-29d8f702-c965-4b7c-9d18-6ee1174b5390.png)
+* If we did any mistake in any step, we can go the last correct step by looking at the `Applied Steps` window on the right side of the P-BI interface. We can also delete some steps if we want.
+![grafik](https://user-images.githubusercontent.com/61450446/129107748-ae233f10-2ae9-45ff-beff-226b76e45def.png)
 

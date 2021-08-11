@@ -24,5 +24,10 @@ Beginner Level Project
 
 ## Fixing the column name problem
 * Source of the dataset is UCI- University of California, Irvine Machine Learning Repository. The dataset is about Credit Cards defaults in Taiwan in the year 2005
-* The right-most column is populated with US states names so that we can later use them to categorised by the states
-* ![grafik](https://user-images.githubusercontent.com/61450446/129103452-7f9db918-c394-4920-bc83-1021f8722fdd.png)
+* The right-most column is populated with US states names so that we can later use them to categorised by the states/or geolocations
+![grafik](https://user-images.githubusercontent.com/61450446/129103452-7f9db918-c394-4920-bc83-1021f8722fdd.png)
+* Now we go to Home --> Transform; Here we see the descriptive names of the columns in the raw dataset.
+![grafik](https://user-images.githubusercontent.com/61450446/129104568-fd8c586d-6001-46c5-950b-2eb09939b5ed.png)
+* Here, we click on Remove Rows --> Remove Top Row; there will be a pop-up window to specify the numbers of rows to be removed. In our case, we specify only one row and click ok button
+![grafik](https://user-images.githubusercontent.com/61450446/129104957-28cf4906-b5a6-473f-a6ab-624de1151179.png)
+

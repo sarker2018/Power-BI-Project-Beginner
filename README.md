@@ -59,4 +59,9 @@ Beginner Level Project
    * 2 = Un Married
    * else = Unknown
 
+```
+   1 = Married
+   2 = Un Married
+   else = Unknown
+```
 ![grafik](https://user-images.githubusercontent.com/61450446/129110125-7e0fa85d-ff66-4c1b-888e-e77098b6a2fd.png)

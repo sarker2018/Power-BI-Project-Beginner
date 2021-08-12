@@ -135,7 +135,7 @@ Roller button --> Data Colors --> Show All --> Push Off to On --> Select the col
 * Drag the `DEFAULT` Column to the color saturation, find the below plot
 ![grafik](https://user-images.githubusercontent.com/61450446/129119482-0174540e-7993-4fbf-a94e-96dd510ae9a7.png)
 
-## Defaulter Ration & Slicing the data
+## DEFAULT Ratio & Slicing the data
 ```
 Select DEFAULT
 Drag the MARITAL STATUS on to the Axis

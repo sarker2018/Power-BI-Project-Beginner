@@ -145,11 +145,17 @@ Drag the SEX on to the Legend
 * From the Fields drop-down menu of the DEFAULT we can select many descriptive statistics
 ![grafik](https://user-images.githubusercontent.com/61450446/129120158-230dd6b3-4816-4090-b386-ecc794ae0c7b.png)
 
-* cntrl + C to omit the last command
+
 
 ## Create a slicer 
-* Click on the slice button on the visualisation menu
+* Slicer is a nice tool to view the data just clicking on a single factor to get all the dash-board simultaneously updated.
+* Click on the slice button on the visualisation menu, a slice will be available on the canvas
+* Select numerical column on the field
+* Drag any factor column on to the `Axis` tab and another factor column on to the `Legend` tab
+* See the magic! More than one slicer would be helpful for different factors and numerical column.
 
+## Keyboard Shortcuts
+* cntrl + C to omit the last command
 
 
 ## Corsera Promotion!!!

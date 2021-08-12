@@ -3,6 +3,8 @@
 * One can buy this from Coursera.com or recreate the project by following this .md file as well.
 * I would recommend going to Coursera.com as they are investing their time and resources to create this course.
  
+## After following the below steps one should expect to see a Report like this one
+![grafik](https://user-images.githubusercontent.com/61450446/129135905-601a1842-244d-46ec-90b1-aee968284432.png)
 
 ## First Experince & data loading
 
@@ -153,6 +155,10 @@ Drag the SEX on to the Legend
 * Select numerical column on the field
 * Drag any factor column on to the `Axis` tab and another factor column on to the `Legend` tab
 * See the magic! More than one slicer would be helpful for different factors and numerical column.
+
+## Final Report
+![grafik](https://user-images.githubusercontent.com/61450446/129135776-bb0d99af-61e9-4792-b27b-cfac0250908c.png)
+
 
 ## Keyboard Shortcuts
 * cntrl + C to omit the last command

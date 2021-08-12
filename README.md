@@ -6,6 +6,9 @@
 
 ## First Experince & data loading
 
+* Should you be downloading MS Power BI [Kostenlos Desktop Verson](https://powerbi.microsoft.com/de-de/downloads/) if not previously installed on your machine.
+### First Impression: Ready to go with...
+
 * There are three views in the Power BI
   * Report View
   * Data View
@@ -148,24 +151,17 @@ Drag the SEX on to the Legend
 * Click on the slice button on the visualisation menu
 
 
-Continue learning on Coursera!
 
-Congratulations on completing Getting Started with Power BI Desktop! We hope it was valuable and helped you acquire new skills.
+## Corsera Promotion!!!
+Continue learning on Coursera!
 
 To further your knowledge, please check out the following content on Coursera!
 
 Courses, Specializations and Professional Certificates:
 
     Data Visualization with Tableau - Specialization offered by University of California, Davis
-
     Data Analysis and Visualization Foundations - Specialization offered by IBM
-
     Business Analytics - Specialization offered by University of Pennsylvania
-
     Excel to MySQL: Analytic Techniques for Business - Specialization offered by Duke University
-
     Data Analysis and Presentation Skills: the PwC Approach - Specialization offered by PwC
 
-Coursera Plus
-
-You can also get unlimited access to 3,000+ courses, Guided Projects, Specializations, and Professional Certificates through Coursera Plus

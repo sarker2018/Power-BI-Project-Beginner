@@ -107,3 +107,62 @@ Drag the SEX column on to the Axis tab
 Roller button --> Data Colors --> Show All --> Push Off to On --> Select the color from the list
 ~~~
 ![grafik](https://user-images.githubusercontent.com/61450446/129117941-facb7e7c-9590-48b1-a556-3dbef1cb05c0.png)
+
+* We can do many small changes like title or other by choosing from the drop-down menu
+![grafik](https://user-images.githubusercontent.com/61450446/129118191-2d4fa49a-3d25-4211-bce6-24dcb955df7c.png)
+* Now we have three plots on the canvas, if we select any of the category, it will update accordingly and apply the changes to the all of the plots
+
+## DEFAULT by STATE (Geolocations)
+* Just select the `STATE` column from the column list it will automatically create a map on the canvas (P-BI is quite intellegent, it can understand that the `STATE` is somehow related to the geographical locations)
+![grafik](https://user-images.githubusercontent.com/61450446/129118721-871b5017-a715-4db8-ab5f-51bddd89c5e1.png)
+
+* We can select the `Field Map` next to the map menu from the visualisation tab
+![grafik](https://user-images.githubusercontent.com/61450446/129118670-9d0c6d4d-1da8-4435-8241-0fa1fc2af8e7.png)
+
+* New way to the last step `File --> Options & Settings --> Options --> Preview Features --> Shape map Visual --> ok`
+
+![grafik](https://user-images.githubusercontent.com/61450446/129118893-078c280e-9269-4154-af9c-45582262ff35.png)
+* At this stage need to save the workspace and restart the P-BI app.
+* Load the previous saved file, and Drag the `STATE` column to the `Location` tab.
+
+![grafik](https://user-images.githubusercontent.com/61450446/129119410-fad24b95-0c84-48ea-be07-e26feddcf22d.png)
+* Drag the `DEFAULT` Column to the color saturation, find the below plot
+![grafik](https://user-images.githubusercontent.com/61450446/129119482-0174540e-7993-4fbf-a94e-96dd510ae9a7.png)
+
+## Defaulter Ration & Slicing the data
+```
+Select DEFAULT
+Drag the MARITAL STATUS on to the Axis
+Drag the SEX on to the Legend
+```
+* Create a Card by Clickikng on the Card from the visualisation menu
+* From the Fields drop-down menu of the DEFAULT we can select many descriptive statistics
+![grafik](https://user-images.githubusercontent.com/61450446/129120158-230dd6b3-4816-4090-b386-ecc794ae0c7b.png)
+
+* cntrl + C to omit the last command
+
+## Create a slicer 
+* Click on the slice button on the visualisation menu
+
+
+Continue learning on Coursera!
+
+Congratulations on completing Getting Started with Power BI Desktop! We hope it was valuable and helped you acquire new skills.
+
+To further your knowledge, please check out the following content on Coursera!
+
+Courses, Specializations and Professional Certificates:
+
+    Data Visualization with Tableau - Specialization offered by University of California, Davis
+
+    Data Analysis and Visualization Foundations - Specialization offered by IBM
+
+    Business Analytics - Specialization offered by University of Pennsylvania
+
+    Excel to MySQL: Analytic Techniques for Business - Specialization offered by Duke University
+
+    Data Analysis and Presentation Skills: the PwC Approach - Specialization offered by PwC
+
+Coursera Plus
+
+You can also get unlimited access to 3,000+ courses, Guided Projects, Specializations, and Professional Certificates through Coursera Plus

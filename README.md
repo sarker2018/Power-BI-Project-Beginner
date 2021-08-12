@@ -1,7 +1,8 @@
 # Power-BI-Project
-Beginner Level Project
-
-* 
+* It's a Beginner Level Project
+* One can buy this from Coursera.com or recreate the project by following this .md file as well.
+* I would recommend going to Coursera.com as they are investing their time and resources to create this course.
+ 
 
 ## First Experince & data loading
 
